@@ -19,7 +19,7 @@ Source of data
 * server-side HTTP request body
 * client-side HTTP response body
 * sensor
-* process stdout
+* process stdin
 * ...
 
 
@@ -117,7 +117,7 @@ Target of data.
 * socket
 * server-side HTTP response body
 * client-side HTTP request body
-* process stdin
+* process stdout
 * ...
 
 
